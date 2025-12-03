@@ -1,4 +1,4 @@
-# Sistema de Baralho - Exame Front-end
+# Sistema de Baralho - Exame Front-end / FIAP
 
 ## Descrição
 
@@ -57,4 +57,3 @@ npm start
 
 Deploy na Vercel: (link a ser adicionado)
 
-**Importante:** Configure a variável de ambiente `AUTH_PASSWORD` no painel da Vercel antes do deploy.
